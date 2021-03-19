@@ -3,14 +3,14 @@
 \docType{data}
 \name{no2}
 \alias{no2}
-\title{Tibble con i dati di no2 per 2 stazioni della regione MOLISE}
+\title{Tibble con i dati di no2 per 4 stazioni della regione MOLISE}
 \format{
-Un tibble con 8 colonne e 5472 osservazioni
+Un tibble con 8 colonne e 10896 osservazioni
 }
 \usage{
 no2
 }
 \description{
-Tibble con i dati di no2 per 2 stazioni della regione MOLISE
+Tibble con i dati di no2 per 4 stazioni della regione MOLISE
 }
 \keyword{datasets}

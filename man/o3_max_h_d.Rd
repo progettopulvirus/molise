@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_h_d}
 \alias{o3_max_h_d}
-\title{Tibble con i dati di o3_max_h_d per 2 stazioni della regione MOLISE}
+\title{Tibble con i dati di o3_max_h_d per 1 stazioni della regione MOLISE}
 \format{
-Un tibble con 8 colonne e 5476 osservazioni
+Un tibble con 8 colonne e 2922 osservazioni
 }
 \usage{
 o3_max_h_d
 }
 \description{
-Tibble con i dati di o3_max_h_d per 2 stazioni della regione MOLISE
+Tibble con i dati di o3_max_h_d per 1 stazioni della regione MOLISE
 }
 \keyword{datasets}
